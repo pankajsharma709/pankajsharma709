@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Pankaj Sharma
-💫 About Me:
+#💫 About Me:
 React Native Mobile App Developer<br><br>💡 I build clean, user-friendly mobile apps for Android & iOS using React Native. I have hands-on internship experience and am familiar with the complete development cycle — from project setup to generating and sharing builds.<br><br>🛠️ Tech Stack:<br>React Native • React • JavaScript • REST APIs • Git<br><br>🚀 What I Do:<br>• Develop features & fix bugs<br>• Integrate APIs & improve performance<br>• Write clean, maintainable code<br><br>🌱 Currently seeking entry-level opportunities to grow, contribute, and learn from experienced teams.<br><br>🤝 Open to collaboration, learning, and networking
 
 
